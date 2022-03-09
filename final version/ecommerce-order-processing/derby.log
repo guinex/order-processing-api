@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 18 09:56:00 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-15fe-da56-0000047cf180 
+on database directory memory:C:\Users\Guinex\eclipse-workspace\ecommerce-order-processing\1dd1844f-af7a-458d-9420-a61222521959 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Guinex/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Guinex\eclipse-workspace\ecommerce-order-processing
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
